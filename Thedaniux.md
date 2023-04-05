@@ -1,5 +1,5 @@
 ***
-# Hola, mi nick es thedaniux
+# Hola, mi nick es @thedaniux
 ## Me considero Investigador de Seguridad Web, soy de **Ecuador**
 ### Estoy en este bootcamp para mejorar mis habilidades de Hacking en el mundo real.
 
